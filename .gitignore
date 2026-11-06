@@ -1,0 +1,6 @@
+# Compiled C++ files
+*.exe
+*.out
+
+# VS Code settings
+.vscode/
